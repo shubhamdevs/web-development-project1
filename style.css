@@ -73,3 +73,8 @@ nav a {
     cursor: pointer;
 }
 
+.text-box button:last-child{
+    background: #5957cf;
+    color: #fff;
+}
+
