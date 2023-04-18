@@ -44,3 +44,20 @@ nav a {
     text-decoration: none;
     color: #fff;
 }
+
+.text-box {
+    margin-top: 18%;
+    max-width: 600px;
+}
+
+.text-box h1 {
+    font-size: 70px;
+    line-height: 90px;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+
+.text-box p {
+    line-height: 28px;
+}
+
