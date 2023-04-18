@@ -88,3 +88,13 @@ nav a {
     border-top-left-radius: 200px;
 }
 
+.side-bar {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 32%;
+    height: 100%;
+    background: linear-gradient(#8569ff, #006786);
+    z-index: 1;
+
+}
