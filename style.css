@@ -61,3 +61,15 @@ nav a {
     line-height: 28px;
 }
 
+.text-box button {
+    padding:  20px 40px;
+    background: #fff;
+    border: 0;
+    outline: 0;
+    margin-top: 40px;
+    margin-right: 10px;
+    border-radius: 50px;
+    font-weight: 500;
+    cursor: pointer;
+}
+
