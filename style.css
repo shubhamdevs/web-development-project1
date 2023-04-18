@@ -24,3 +24,23 @@ nav {
     align-items: center;
     z-index: 10;
 }
+
+nav img{
+    width: 180px;
+}
+
+nav ul{
+    flex: 1;
+    text-align: center;
+}
+
+nav ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 5px 15px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+}
